@@ -31,6 +31,12 @@ MANIFEST
 *.manifest
 *.spec
 
+# OSX files
+*.DS_Store
+
+# .png images
+*.png
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
